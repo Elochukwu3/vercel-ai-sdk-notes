@@ -62,7 +62,7 @@ const results = vectorDatabase
 
 console.log("\n Results ranked by similarity:");
 results.forEach((result, i) => {
-  const bar = "█".repeat(Math.round(result.similarity * 20));
+  const bar = "".repeat(Math.round(result.similarity * 20));
   console.log(
     `  ${i + 1}. ${result.value.padEnd(6)} ${bar} ${result.similarity.toFixed(4)}`
   );
