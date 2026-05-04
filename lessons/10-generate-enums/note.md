@@ -73,10 +73,3 @@ const result = await generateText({
 const value = result.output;
 ```
 
-## Personal Notes
-> This is one of the most underrated features in the AI SDK.
-> Classification is everywhere in real apps:
-> - Fincerta AI: classify transactions as "income", "expense", "transfer"
-> - Support bots: route tickets to the right team
-> - Content tools: flag inappropriate content before saving
-> One LLM call, one constrained string back — clean and reliable.
