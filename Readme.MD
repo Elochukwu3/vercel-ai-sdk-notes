@@ -1,4 +1,4 @@
-# Vercel AI SDK — Learning Notes & Code (TypeScript)
+# Vercel AI SDK - Notes & Code [TypeScript]
 
 > My personal study notes and code while working through the [Vercel AI SDK Tutorial](https://www.aihero.dev/vercel-ai-sdk-tutorial) by Matt Pocock.  
 > Public repo — feel free to learn alongside me!
@@ -83,7 +83,7 @@ npm run build
 
 ---
 
-## 🛠 Stack
+##  Stack...
 
 - **Runtime:** Node.js
 - **Language:** TypeScript
@@ -94,7 +94,7 @@ npm run build
 
 ---
 
-##  Folder Structure
+##  Folder Structure..
 
 ```
 vercel-ai-sdk-notes/
